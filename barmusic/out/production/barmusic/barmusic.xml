@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="WINDOWS-1251"?>
+<bars title="Этот сайт позволит вам выбрать бар, где можно отдохнуть с друзьями и выбрать музыканта">
+    <bar id="1" name="Good music" popularity="3" music="Jas" price="7" title="Этот бар ништяк">
+        <singer id="11" name="Rikardo" place="I enjoy good musik" time="10:00-14:00" popularity="3" price="10"/>
+        <singer id="12" name="Anton" place="I enjoy good musik" time="14:00-18:00" popularity="4" price="16"/>
+        <singer id="13" name="Georg" place="I enjoy good musik" time="18:00-20:00" popularity="5" price="20"/>
+    </bar>
+    <bar id="2" name="Rok is my life" popularity="5" music="Rok" price="8" title="Если любишь рок, приходи - будет круто ">
+        <singer id="21" name="Evgeniy" place="Rok is my life" time="10:00-14:00" popularity="3" price="14"/>
+        <singer id="22" name="Pavel" place="Rok is my life" time="14:00-18:00" popularity="5" price="20"/>
+        <singer id="23" name="Jigit" place="Rok is my life" time="18:00-20:00" popularity="3" price="13"/>
+    </bar>
+    <bar id="3" name="Romantik place" popularity="4" music="Romantik" price="10" title="Эх, романтика">
+        <singer id="31" name="Padre" place="Romantik place" time="10:00-14:00" popularity="3" price="13"/>
+        <singer id="32" name="Dora" place="Romantik place" time="14:00-18:00" popularity="4" price="18"/>
+        <singer id="33" name="Nora" place="Romantik place" time="18:00-20:00" popularity="5" price="23"/>
+    </bar>
+</bars>
+
+
+
+
+
