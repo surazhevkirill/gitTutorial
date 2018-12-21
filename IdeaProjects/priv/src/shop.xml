@@ -1,0 +1,46 @@
+<shop name="" carrency="">
+    <box type="">
+        <boxes id="">
+            <product name="tomatos"></product>
+            <product price="2"></product>
+            <product country="Mexica"></product>
+        </boxes>
+        <boxes id="">
+            <product name="cucmbers"></product>
+            <product price="1.5"></product>
+            <product country="Russia"></product>
+        </boxes>
+        <boxes id="">
+            <product name="carrot"></product>
+            <product price="2"></product>
+            <product country="Belarus"></product>
+        </boxes>
+        <boxes id="">
+            <product name="potato"></product>
+            <product price="1"></product>
+            <product country="Belarus"></product>
+        </boxes>
+    </box>
+    <box type="">
+        <boxes id="">
+            <product name="oranges"></product>
+            <product price="2"></product>
+            <product country="Tailand"></product>
+        </boxes>
+        <boxes id="">
+            <product name="apples"></product>
+            <product price="400"></product>
+            <product country="USA"></product>
+        </boxes>
+        <boxes id="">
+            <product name="pineapples"></product>
+            <product price="6"></product>
+            <product country="Hawai"></product>
+        </boxes>
+        <boxes id="">
+            <product name="bananas"></product>
+            <product price="2"></product>
+            <product country="Hawai"></product>
+        </boxes>
+    </box>
+</shop>
