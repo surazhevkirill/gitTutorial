@@ -1,0 +1,18 @@
+<Bars>
+	<bar name="I enjoy good musik" popularity="3" musik="Jas" price="7"></bar>
+	<bar name="Rok is my life" popularity="4" musik="Rok" price="8"></bar>
+	<bar name="Romantik place" popularity="5" musik="Romantik" price="10"></bar>
+</Bars>
+<Singers>
+	<singer name="Rikardo" place="I enjoy good musik" time="10:00-14:00" popularity="3" price="10"></singer>
+	<singer name="Anton" place="I enjoy good musik" time="14:00-18:00" popularity="4" price="16"></singer>
+	<singer name="Georg" place="I enjoy good musik" time="18:00-20:00" popularity="5" price="20"></singer>
+
+	<singer name="Evgeniy" place="Rok is my life" time="10:00-14:00" popularity="3" price="14"></singer>
+	<singer name="Pavel" place="Rok is my life" time="14:00-18:00" popularity="5" price="20"></singer>
+	<singer name="Jigit" place="Rok is my life" time="18:00-20:00" popularity="3" price="13"></singer>
+
+	<singer name="Padre" place="Romantik place" time="10:00-14:00" popularity="3" price="13"></singer>
+	<singer name="Dora" place="Romantik place" time="14:00-18:00" popularity="4" price="18"></singer>
+	<singer name="Nora" place="Romantik place" time="18:00-20:00" popularity="5" price="23"></singer>
+</Singers>
